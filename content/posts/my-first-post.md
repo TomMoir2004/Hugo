@@ -8,3 +8,5 @@ title = 'My First Post'
 This is **bold** text and this is *emphasized* text.
 
 visit the [hugo](https://gohugo.io) website!
+
+I am editing this page as a test!
