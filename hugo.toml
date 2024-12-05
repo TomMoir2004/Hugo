@@ -1,4 +1,4 @@
 baseURL = 'http://localhost:1313'
 languageCode = 'en-uk'
-title = 'New Hugo website'
+title = 'Hugo Hugo website'
 theme = 'ananke'
